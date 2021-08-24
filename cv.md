@@ -30,6 +30,8 @@ Today I have independently learned what I display in the links to my portfolio. 
 ### __University:__
 Saint Petersburg State University of Water Communications, Saint Petersburg
 
+_**Speciality:**_
+Information systems and technologies
 
 ---
 English - B1
