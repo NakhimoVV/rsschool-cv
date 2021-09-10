@@ -1,6 +1,8 @@
 # Aleksey Nakhimov
 ## tel: +79650415180 / +79211855382
+## e-mail: tj1993@bk.ru
 
+### __About me:__
 I love design & programming and create user-friendly interfaces, and the frontend is exactly what I need!
 Therefore, my goal is to be a mega professional at this. And then we'll see.
 
@@ -22,6 +24,12 @@ Today I have independently learned what I display in the links to my portfolio. 
 * Gulp;
 * Grid.
 
+### __Code example:__
+```javascript
+function multiply(a, b){
+  return a * b;
+}
+```
 ### __Portfolio:__
 1. [creative](http://nakhimovv.h1n.ru/creative/)
 2. [shelflife](http://nakhimovv.h1n.ru/shelflife/)
@@ -34,4 +42,4 @@ _**Speciality:**_
 Information systems and technologies
 
 ---
-English - B1
+**English** - A2
